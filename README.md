@@ -1,4 +1,4 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+# LazyVim configration
+## Install neovim >= v0.8 on ubuntu
+`sudo add-apt-repository ppa:neovim-ppa/unstable`
+`sudo apt install neovim`
