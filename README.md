@@ -5,4 +5,4 @@
 `sudo apt install neovim`
 
 ## Add configurations
-`got clone https://github.com/Passion-7/LazyVimConfig.git ~/.config/nvim`
+`git clone https://github.com/passion729/LazyVimConfig.git ~/.config/nvim`
